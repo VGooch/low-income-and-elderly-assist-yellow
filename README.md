@@ -17,4 +17,4 @@ width: width of the returned reference (optional)
 
 Use your findings from the above exercise and any other analyses you think of to create charts or visualizations that might help guide the decision making at HUA. Remember that HUA's goal is to `provide assistance for low income and elderly taxpayers`. Your deliverable will be a single dashboard that captures what you think are the most important factors for HUA to consider.
 
-![Final Dashboard](/assets/Hand_Up_Final.png)
+![Final Dashboard](/assets/Hand_Up_Final.PNG)
